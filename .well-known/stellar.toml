@@ -1,0 +1,22 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=[
+"GAJJOCMEQIM75W4OIXB3YJ4HITZWFGRTKEUKQBTCULN6MPDI2BTXNLMN",
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="estrella"
+ORG_DBA="Crypto Solution"
+ORG_DESCRIPTION="estrella is a meme token built on the stellar blockchain"
+ORG_URL="https://estrellacoin.com"
+ORG_LOGO="https://estrellacoin.vercel.app/assets/images/org.png"
+ORG_TWITTER="estrellacoin"
+
+# asset with meta info
+[[CURRENCIES]]
+code="ESTR"
+issuer="GAJJOCMEQIM75W4OIXB3YJ4HITZWFGRTKEUKQBTCULN6MPDI2BTXNLMN"
+display_decimals=2
+name="estrella"
+desc="estrella is a meme token built on the stellar blockchain"
+image="https://estrellacoin.vercel.app/assets/images/coin.png"
